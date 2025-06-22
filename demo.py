@@ -1,8 +1,15 @@
-def my_function():
+"""
+This module demonstrates a simple function that combines a number and a string.
+"""
 
-    passwrd = "manjot"
+
+def my_function():
+    """
+    Returns the concatenation
+    """
+
     a = 5
-    return a + passwrd
+    return str(a)
 
 
 my_function()
