@@ -6,8 +6,7 @@ def my_function():
     """
     Returns the concatenation of a number (converted to string).
     """
-
-
+    
     a = 5
     return str(a)
 
