@@ -1,4 +1,4 @@
-"""This module demonstrates a simple function that combines a number and a string."""
+"""Simple function that combines a number and a string."""
 
 
 def my_function():
