@@ -1,12 +1,12 @@
-"""
-This module demonstrates a simple function that combines a number and a string.
-"""
+"""This module demonstrates a simple function that combines a number and a string."""
 
 
 def my_function():
+
     """
-    Returns the concatenation
+    Returns the concatenation of a number (converted to string).
     """
+
 
     a = 5
     return str(a)
