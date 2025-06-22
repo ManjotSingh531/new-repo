@@ -1,8 +1,8 @@
 def my_function():
 
-    password = "manjot"
+    passwrd = "manjot"
     a = 5
-    return a + password
+    return a + passwrd
 
 
 my_function()
